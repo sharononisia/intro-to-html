@@ -1,3 +1,5 @@
+
+
 h1,h2,h3{
 font-style: italic; color: brown;
 }
@@ -10,4 +12,7 @@ p{
 }
 #ibra{
     color: blueviolet;text-align: right; background-color: beige;
+}
+body{
+    background-color: black;
 }
